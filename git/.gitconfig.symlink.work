@@ -1,8 +1,0 @@
-[user]
-	name = Mark Ormesher
-	email = mormesher@palantir.com
-[core]
-	autocrlf = input
-	safecrlf = false
-[push]
-	default = simple
